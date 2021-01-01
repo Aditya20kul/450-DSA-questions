@@ -3,5 +3,6 @@
         "*html": "html",
         "*njk": "html",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
