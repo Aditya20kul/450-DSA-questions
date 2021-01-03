@@ -1,5 +1,5 @@
 # 450 Data Structure and Algorithms Questions 
-<p>This Repository contains solutions of DS Algo practice problems given in the SDE sheet by Luv Babbar in this <a href="https://www.youtube.com/watch?v=4iFALQ1ACdA&ab_channel=LoveBabbar" target="_blank">Video</a></p></br>
+<p>This Repository contains solutions of DS Algo practice problems given in the SDE sheet by Love Babbar in this <a href="https://www.youtube.com/watch?v=4iFALQ1ACdA&ab_channel=LoveBabbar" target="_blank">Video</a></p>
 <p>Language Used - C++</p></br>
 <h2>Progress -</h2></br>
 <table>
