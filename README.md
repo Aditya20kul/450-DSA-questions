@@ -1,7 +1,7 @@
 # 450 Data Structure and Algorithms Questions 
-<p>This Repository contains solutions of DS Algo practice problems given in the SDE sheet by Luv Babbar in this <a href="https://www.youtube.com/watch?v=4iFALQ1ACdA&ab_channel=LoveBabbar" target="_blank">Video</a></p></br></br>
+<p>This Repository contains solutions of DS Algo practice problems given in the SDE sheet by Luv Babbar in this <a href="https://www.youtube.com/watch?v=4iFALQ1ACdA&ab_channel=LoveBabbar" target="_blank">Video</a></p></br>
 <p>Language Used - C++</p></br>
-<h2>Progress -</h2></br></br>
+<h2>Progress -</h2></br>
 <table>
   <tr>
     <th>Category/Tags</th>
@@ -14,7 +14,70 @@
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/min_and_max_ele.cpp">Code</a></td>
   </tr>
   <tr>
-    
+    <td>Arrays</td>
+    <td>Reverse the Array</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/reverse-array.cpp">Code</a></td>
   </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Find the "Kth" max and min element of an array </td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Rotate the Array</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/rotate_array.cpp">Code</a></td>
+  </tr>
+    <tr>
+    <td>Arrays</td>
+    <td>Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/sort-0-1-2.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Union And Intersection of 2 Arrays</td> 
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/union_and_Intersection.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Find Largest sum contiguous Subarray</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/kadane.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Find duplicate in an array of N+1 Integers</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/find_duplicate.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Merge two sorted Arrays without using extra Space</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/merge_two_sorted_arrays.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Count pairs with given sum</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/count_pairs_with_given_sum.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+
 </table>
 
