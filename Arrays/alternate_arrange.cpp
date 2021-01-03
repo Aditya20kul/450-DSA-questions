@@ -1,3 +1,12 @@
+/*
+  Arrange the positive and negative elements of array Alternately.
+  TC of below Solution - O(n)
+  SC = o(1)
+  * Only problem with this solution is that the order of elements is not maintained 
+
+*/
+
+
 #include<bits/stdc++.h>
 #define mod 1000000007
 #define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
