@@ -60,13 +60,13 @@
   </tr>
   <tr>
     <td>Arrays</td>
-    <td></td>
-    <td><a href="">Code</a></td>
+    <td>Arrange the positive and negative elements of array Alternately.</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/alternate_arrange.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Arrays</td>
-    <td></td>
-    <td><a href="">Code</a></td>
+    <td>Merge Intervals</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/merge_Intervals.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Arrays</td>
