@@ -70,6 +70,51 @@
   </tr>
   <tr>
     <td>Arrays</td>
+    <td>Best time to buy and sell stocks.</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/stocks.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td></td>
+    <td><a href="">Code</a></td>
+  </tr>
+  <tr>
+    <td>Arrays</td>
     <td></td>
     <td><a href="">Code</a></td>
   </tr>
