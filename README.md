@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Arrays</td>
-    <td></td>
+    <td>Next Permutation</td>
     <td><a href="">Code</a></td>
   </tr>
   <tr>
