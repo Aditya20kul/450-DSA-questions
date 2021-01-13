@@ -76,7 +76,7 @@
   <tr>
     <td>Arrays</td>
     <td>Next Permutation</td>
-    <td><a href="">Code</a></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/next_permutation.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Arrays</td>
