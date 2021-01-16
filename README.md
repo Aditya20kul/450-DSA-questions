@@ -6,7 +6,7 @@
   <tr>
     <th>Category/Tags</th>
     <th>Problem</th>
-    <th>Solutions</th>
+    <th>Solution</th>
   </tr>
   <tr>
     <td>Arrays</td>
