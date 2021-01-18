@@ -110,8 +110,8 @@
   </tr>
   <tr>
     <td>Arrays</td>
-    <td></td>
-    <td><a href="">Code</a></td>
+    <td>Array Subset of another array</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/arr_subset.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Arrays</td>
