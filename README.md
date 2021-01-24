@@ -130,13 +130,13 @@
   </tr>
   <tr>
     <td>Arrays</td>
-    <td></td>
-    <td><a href="">Code</a></td>
+    <td>Find minimum number of merge operations to make an array palindrome</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/arr_palindrome.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Arrays</td>
-    <td></td>
-    <td><a href="">Code</a></td>
+    <td>Three Way Partitioning </td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/three_way_partitioning.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Arrays</td>
