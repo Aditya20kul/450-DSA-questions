@@ -140,7 +140,7 @@
   </tr>
   <tr>
     <td>Arrays</td>
-    <td>Minimum swaps required to bring all elements less than or equal to k together</td>
+    <td>Minimum swaps required to bring all elements less than or equal to k together !</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Arrays/minSwaps.cpp">Code</a></td>
   </tr>
   <tr>
