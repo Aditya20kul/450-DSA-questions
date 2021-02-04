@@ -164,5 +164,13 @@
     <td><a href="">Code</a></td>
   </tr>
 
+  <!-- --------------------Matrix Problems------------------- -->
+
+  <tr>
+    <td>Matrix</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/spiral_traversal.cpp">Code</a></td>
+  </tr>
+
 </table>
 
