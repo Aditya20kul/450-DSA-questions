@@ -168,8 +168,13 @@
 
   <tr>
     <td>Matrix</td>
-    <td></td>
+    <td>Spiral Traversal of Matrix</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/spiral_traversal.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Matrix</td>
+    <td>Search in a Matrix</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/search_matrix.cpp">Code</a></td>
   </tr>
 
 </table>
