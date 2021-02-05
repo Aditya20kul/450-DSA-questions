@@ -176,6 +176,11 @@
     <td>Search in a Matrix</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/search_matrix.cpp">Code</a></td>
   </tr>
+    <tr>
+    <td>Matrix</td>
+    <td>Median in row wise sorted Matrix</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/medianMatrix.cpp">Code</a></td>
+  </tr>
 
 </table>
 
