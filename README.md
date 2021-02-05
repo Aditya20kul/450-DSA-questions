@@ -181,6 +181,11 @@
     <td>Median in row wise sorted Matrix</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/medianMatrix.cpp">Code</a></td>
   </tr>
+  <tr>
+    <td>Matrix</td>
+    <td>Row With Maximum Ones</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Matrix/rowWithMaxOnes.cpp">Code</a></td>
+  </tr>
 
 </table>
 
