@@ -199,7 +199,7 @@
   <tr>
     <td>String</td>
     <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/printDuplicates.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
