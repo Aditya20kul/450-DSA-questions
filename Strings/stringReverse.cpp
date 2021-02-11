@@ -15,9 +15,9 @@ int main()
     int i, j, cnt=0, arr[]={} ;
     string s;
     getline(cin, s);
-    //cout<<revString(s);
-    reverse(s.begin()+2,s.begin()+5);
-    cout<<s;
+    cout<<revString(s);
+    //reverse(s.begin()+2,s.begin()+5);
+    //cout<<s;
     return 0;
 }
 

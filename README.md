@@ -188,13 +188,13 @@
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
+    <td>Reversing a String</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/stringReverse.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>Check if String is Palindrome</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/stringPalindrome.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
