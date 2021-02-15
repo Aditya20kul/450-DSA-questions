@@ -198,13 +198,13 @@
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
+    <td>Print Duplicates in a string</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/printDuplicates.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>Split the binary string into substrings with equal number of 0s and 1s</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/splitBinaryString.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
