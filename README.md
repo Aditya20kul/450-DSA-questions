@@ -208,8 +208,8 @@
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>Program to check if strings are rotations of each other</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/splitBinaryString.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
