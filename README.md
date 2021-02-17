@@ -212,14 +212,14 @@
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/splitBinaryString.cpp">Code</a></td>
   </tr>
   <tr>
-    <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>String / DP</td>
+    <td>Longest Common Subsequence (Memoization)</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/DP/lcs-memo.cpp">Code</a></td>
   </tr>
   <tr>
-    <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>String / DP</td>
+    <td>Longest Common Subsequence (Tabulation)</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/DP/lcs-tabulation.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
