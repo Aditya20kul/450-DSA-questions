@@ -223,8 +223,8 @@
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>Convert a sentence into its equivalent mobile numeric keypad sequence</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/sentence_to_num.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
