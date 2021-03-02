@@ -228,8 +228,8 @@
   </tr>
   <tr>
     <td>String</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+    <td>Minimum number of bracket reversals needed to make an expression balanced</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/countReversals.cpp">Code</a></td>
   </tr>
   <tr>
     <td>String</td>
@@ -238,4 +238,3 @@
   </tr>
 
 </table>
-
