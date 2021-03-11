@@ -236,5 +236,10 @@
     <td>Roman to Decimal</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/romanToDecimal.cpp">Code</a></td>
   </tr>
+    <tr>
+    <td>String</td>
+    <td>KMP Search</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/kmp_search.cpp">Code</a></td>
+  </tr>
 
 </table>
