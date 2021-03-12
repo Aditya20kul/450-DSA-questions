@@ -241,5 +241,10 @@
     <td>KMP Search</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/kmp_search.cpp">Code</a></td>
   </tr>
+  <tr>
+    <td>String</td>
+    <td>Rabin Karp Algorithm</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/rabinKarp.cpp">Code</a></td>
+  </tr>
 
 </table>
