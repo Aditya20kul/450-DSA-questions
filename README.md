@@ -246,5 +246,35 @@
     <td>Rabin Karp Algorithm</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/rabinKarp.cpp">Code</a></td>
   </tr>
+    <tr>
+    <td>String</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+  </tr>
+      <tr>
+    <td>String</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+  </tr>
+      <tr>
+    <td>String</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+  </tr>
+      <tr>
+    <td>String</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+  </tr>
+      <tr>
+    <td>String</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Strings/">Code</a></td>
+  </tr>
+  <tr>
+    <td>Stack</td>
+    <td>Stack from Scratch</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/Stack.java">Code</a></td>
+  </tr>
 
 </table>
