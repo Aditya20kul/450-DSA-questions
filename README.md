@@ -276,5 +276,40 @@
     <td>Stack from Scratch</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/Stack.java">Code</a></td>
   </tr>
+    <tr>
+    <td>Stack</td>
+    <td>Reverse a String using Stack</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/revString.cpp">Code</a></td>
+  </tr>
+      <tr>
+    <td>Stack</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+  </tr>
+      <tr>
+    <td>Stack</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+  </tr>
+      <tr>
+    <td>Stack</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+  </tr>
+      <tr>
+    <td>Stack</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+  </tr>
+      <tr>
+    <td>Stack</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+  </tr>
+      <tr>
+    <td>Stack</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+  </tr>
 
 </table>
