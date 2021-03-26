@@ -288,8 +288,8 @@
   </tr>
       <tr>
     <td>Stack</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+    <td>Implement k Stacks in an array</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/kStacksInArray.cpp">Code</a></td>
   </tr>
       <tr>
     <td>Stack</td>
