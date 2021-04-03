@@ -293,8 +293,8 @@
   </tr>
       <tr>
     <td>Stack</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/">Code</a></td>
+    <td>Remove All Adjacent Duplicates In String</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Stack/removeAllAdjecentDuplicates.cpp">Code</a></td>
   </tr>
       <tr>
     <td>Stack</td>
