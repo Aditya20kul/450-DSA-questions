@@ -343,8 +343,8 @@
   </tr>
   <tr>
     <td>Binary Tree</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
+    <td>Left View Of Tree</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/leftView.cpp">Code</a></td>
   </tr>
     <tr>
     <td>Binary Tree</td>
