@@ -323,6 +323,46 @@
   </tr>
   <tr>
     <td>Binary Tree</td>
+    <td>Height of the Tree</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/heightOfTree.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Binary Tree</td>
+    <td>Maximum Element in the Tree</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/maxInTree.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Binary Tree</td>
+    <td>Print all the Nodes at K distance</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/printNodesAtKDistance.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Binary Tree</td>
+    <td>Number of Nodes in Tree</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/sizeOfTree.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Binary Tree</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
+  </tr>
+    <tr>
+    <td>Binary Tree</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
+  </tr>
+    <tr>
+    <td>Binary Tree</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
+  </tr>
+    <tr>
+    <td>Binary Tree</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
+  </tr>
+    <tr>
+    <td>Binary Tree</td>
     <td></td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
   </tr>
