@@ -366,5 +366,15 @@
     <td></td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/BinaryTree/">Code</a></td>
   </tr>
+  <tr>
+    <td>Graph</td>
+    <td>Adjecency List</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/adjecencyList.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Graph</td>
+    <td>BFS of undirected Graph</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/bfs.cpp">Code</a></td>
+  </tr>
 
 </table>
