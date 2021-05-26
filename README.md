@@ -386,10 +386,10 @@
     <td>Check if cycle exists</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/checkForCycle.cpp">Code</a></td>
   </tr>
-      <tr>
+  <tr>
     <td>Graph</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+    <td>Check if Bipartite Graph (BFS)</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/bipartiteBfs.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Graph</td>
