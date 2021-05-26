@@ -376,5 +376,40 @@
     <td>BFS of undirected Graph</td>
     <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/bfs.cpp">Code</a></td>
   </tr>
+  <tr>
+    <td>Graph</td>
+    <td>DFS of undirected Graph</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/dfs.cpp">Code</a></td>
+  </tr>
+    <tr>
+    <td>Graph</td>
+    <td>Check if cycle exists</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/checkForCycle.cpp">Code</a></td>
+  </tr>
+      <tr>
+    <td>Graph</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Graph</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Graph</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Graph</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+  </tr>
+  <tr>
+    <td>Graph</td>
+    <td></td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+  </tr>
 
 </table>
