@@ -67,6 +67,6 @@ int main()
         }
         cout<<"\n";
     }
-    isCycle(adj, v) ? cout<<"\nCycle Exists" : cout<<"Cycle does not exist";
+    isCycle(adj, n) ? cout<<"\nCycle Exists" : cout<<"Cycle does not exist";
     return 0;
 }
