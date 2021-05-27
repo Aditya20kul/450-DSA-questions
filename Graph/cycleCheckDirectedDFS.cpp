@@ -6,7 +6,8 @@ bool checkCycle(int node, vector<int>adj[], vector<int>&visited, vector<int>curr
     currDFS[node]=1;
     for(auto it : adj[node]){
         if(!visited[it]){
-            checkCycle(it, adj, visited, currDFS, v);
+            if(checkCycle(it, adj, visited, currDFS, v))
+            return true;
         }
         else if(currDFS[it]){
             cout<<it;
@@ -28,6 +29,7 @@ bool isCycle(vector<int>adj[], int v){
             }
         }
     }
+    return false;
 }
 
 

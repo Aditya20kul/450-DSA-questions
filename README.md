@@ -398,13 +398,13 @@
   </tr>
   <tr>
     <td>Graph</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+    <td>Topological Sort (BFS)(Kanh's Algorithm) </td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/topologicalSortBFS.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Graph</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+    <td>Topological Sort (DFS) </td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/topologicalSortDFS.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Graph</td>
