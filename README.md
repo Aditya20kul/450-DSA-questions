@@ -393,8 +393,8 @@
   </tr>
   <tr>
     <td>Graph</td>
-    <td></td>
-    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/.cpp">Code</a></td>
+    <td>Check if there is a cycle in Directed Graph (DFS)</td>
+    <td><a href="https://github.com/Aditya20kul/450-DSA-questions/blob/master/Graph/cycleCheckDirectedDFS.cpp">Code</a></td>
   </tr>
   <tr>
     <td>Graph</td>
