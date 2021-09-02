@@ -16,7 +16,7 @@ void printPermutations(string s, int l, int r)
 int main()
 {
     int i, j, cnt=0, arr[]={} ;
-    //int n = sizeof(arr)/sizeof(arr[0]);
+    
     string s;
     cin>>s;
     sort(s.begin(), s.end());
