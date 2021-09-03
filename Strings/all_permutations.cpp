@@ -16,12 +16,10 @@ void printPermutations(string s, int l, int r)
 int main()
 {
     int i, j, cnt=0, arr[]={} ;
-    
     string s;
     cin>>s;
     sort(s.begin(), s.end());
     int l=0, r=s.size()-1;
-
     printPermutations(s, l, r);
     return 0;
 }
